@@ -40,7 +40,7 @@
     "mime": "1.4.1",
     "mincer": "1.5.0",
     "postcss": "5.0.21",
-    "uglify-js": "2.6.2"
+    "uglify-es": "github:mishoo/UglifyJS2#harmony"
   },
   "devDependencies": {
     "mocha": "2.5.3",
